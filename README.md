@@ -4,7 +4,9 @@
 
 - A dynamic and fully responsive web app that explores exciting movies and web shows. Built with React, Axios, Redux, and Custom Hooks, it fetches data in real-time from TMDB’s API, offering an immersive experience with the help of various useful React libraries.
   
-
+# Deployment link
+- movix-xspi-gesskegcb-iamharshitjoshi.vercel.app
+  
 # Features(Why we create?)
 - Movie and TV Shows Search: Users can easily search for movies and TV shows by their respective names.
 
@@ -15,7 +17,7 @@
 - Personalized Recommendations: Users receive recommendations for similar movies and TV shows based on the content they are currently viewing.
 
 - Fine-Tuned Filters: Users can apply filters based on various criteria, such as genre, release date, rating, and more, to refine their search results.
-  
+
 
 # Git Push Command
 - git init
